@@ -1,0 +1,2 @@
+# EMCGit
+git practice
